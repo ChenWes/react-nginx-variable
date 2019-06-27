@@ -1,5 +1,7 @@
 ## 处理nginx包裹的react应用程序中变量的问题
 
+文章地址：[docker-compose 布署应用nginx中的react应用获取环境变量](https://www.cnblogs.com/weschen/p/11098068.html)
+
 ## 第一步：创建应用
 
 ```
