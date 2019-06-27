@@ -1,8 +1,8 @@
 version: "3.2"
 services:
   web:
-    image: wes/web:1
+    image: weschen/workbench:20190627.2
     ports:
       - "5000:80"
     environment:
-      - "API_URL=production.example.com"
+      - "API_URL=weschen.production.example.com"
